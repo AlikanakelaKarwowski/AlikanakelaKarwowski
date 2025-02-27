@@ -1,4 +1,4 @@
-<p align="left">Hey There! My name is Alex, and I am a full stack developer who loves backend development. </p>
+<p align="left">Hey There! My name is Alex, and I am a full stack developer who loves backend development. I am currently a Full stack developer for a F500 company and do alot of work with AI/ML and providing backends and interfaces for the ML models. I also love to build tools in new frameworks languages to help deepen my understanding of various langauges or as ways to learn new languages</p>
 
 ###
 
